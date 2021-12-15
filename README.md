@@ -1,2 +1,2 @@
 # myWebsite
-## below is my website for Portfolio 1
+## download this repository to deploy my personal website.
